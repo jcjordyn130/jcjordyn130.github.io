@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jordyn&#39;s blog (year 3000)</title>
-    <link>http://jcjordyn130.github.io/</link>
-    <description>Recent content on Jordyn&#39;s blog (year 3000)</description>
+    <title>Jordyn&#39;s blog</title>
+    <link>https://jcjordyn130.github.io/</link>
+    <description>Recent content on Jordyn&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 jcjordyn120 and contributers</copyright>
     <lastBuildDate>Mon, 16 Jul 2018 04:41:42 +0000</lastBuildDate>
     
-	<atom:link href="http://jcjordyn130.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jcjordyn130.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://jcjordyn130.github.io/about/</link>
+      <link>https://jcjordyn130.github.io/about/</link>
       <pubDate>Thu, 21 Jun 2018 00:00:33 -0500</pubDate>
       
-      <guid>http://jcjordyn130.github.io/about/</guid>
+      <guid>https://jcjordyn130.github.io/about/</guid>
       <description>I&amp;rsquo;m jcjordyn120 and this is my blog.
 I&amp;rsquo;m known all around the internet under various versions of jcjordyn1*0.
 I&amp;rsquo;m a computer enthusiast and like to code in golang and python 3, I experiment with different languages every now and again.
@@ -27,10 +27,10 @@ Oh and I tend to use this image as my avatar:</description>
     
     <item>
       <title>Wallpapers</title>
-      <link>http://jcjordyn130.github.io/wallpapers/</link>
+      <link>https://jcjordyn130.github.io/wallpapers/</link>
       <pubDate>Mon, 16 Jul 2018 04:41:42 +0000</pubDate>
       
-      <guid>http://jcjordyn130.github.io/wallpapers/</guid>
+      <guid>https://jcjordyn130.github.io/wallpapers/</guid>
       <description>Here you will find all my wallapers.
 You can get them using the following torrent file in 4K, with the source (needs GIMP and blender to render).
 Blissful Sky This is my first wallpaper, Blissful sky.
@@ -41,10 +41,10 @@ Waves This is waves (original name, huh?), I made it from my memory of the homeb
     
     <item>
       <title>We&#39;ve moved to hugo!</title>
-      <link>http://jcjordyn130.github.io/posts/moved-to-hugo/</link>
+      <link>https://jcjordyn130.github.io/posts/moved-to-hugo/</link>
       <pubDate>Wed, 20 Jun 2018 23:48:31 -0500</pubDate>
       
-      <guid>http://jcjordyn130.github.io/posts/moved-to-hugo/</guid>
+      <guid>https://jcjordyn130.github.io/posts/moved-to-hugo/</guid>
       <description>We&amp;rsquo;ve moved to a new blogging backend as you can see, We&amp;rsquo;re using hugo with the potato-dark theme instead of wordpress.
 We made this move for various reasons, the main reason being wordpress was slow and we didn&amp;rsquo;t need all that for a simple blog.
 If you want to contribute to this blog you can do it here: https://git.jordynsblog.org/jcjordyn120/blog</description>

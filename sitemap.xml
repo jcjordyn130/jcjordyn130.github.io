@@ -3,39 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://jcjordyn130.github.io/about/</loc>
+    <loc>https://jcjordyn130.github.io/about/</loc>
     <lastmod>2018-06-21T00:00:33-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jcjordyn130.github.io/</loc>
+    <loc>https://jcjordyn130.github.io/</loc>
     <lastmod>2018-07-16T04:41:42+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jcjordyn130.github.io/wallpapers/</loc>
+    <loc>https://jcjordyn130.github.io/wallpapers/</loc>
     <lastmod>2018-07-16T04:41:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jcjordyn130.github.io/posts/</loc>
+    <loc>https://jcjordyn130.github.io/posts/</loc>
     <lastmod>2018-06-20T23:48:31-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jcjordyn130.github.io/posts/moved-to-hugo/</loc>
+    <loc>https://jcjordyn130.github.io/posts/moved-to-hugo/</loc>
     <lastmod>2018-06-20T23:48:31-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jcjordyn130.github.io/categories/</loc>
+    <loc>https://jcjordyn130.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jcjordyn130.github.io/tags/</loc>
+    <loc>https://jcjordyn130.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
