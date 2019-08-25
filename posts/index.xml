@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jordyn&#39;s blog (year 3000)</title>
+    <link>http://jcjordyn130.github.io/posts/</link>
+    <description>Recent content in Posts on Jordyn&#39;s blog (year 3000)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 jcjordyn120 and contributers</copyright>
+    <lastBuildDate>Wed, 20 Jun 2018 23:48:31 -0500</lastBuildDate>
+    
+	<atom:link href="http://jcjordyn130.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>We&#39;ve moved to hugo!</title>
+      <link>http://jcjordyn130.github.io/posts/moved-to-hugo/</link>
+      <pubDate>Wed, 20 Jun 2018 23:48:31 -0500</pubDate>
+      
+      <guid>http://jcjordyn130.github.io/posts/moved-to-hugo/</guid>
+      <description>We&amp;rsquo;ve moved to a new blogging backend as you can see, We&amp;rsquo;re using hugo with the potato-dark theme instead of wordpress.
+We made this move for various reasons, the main reason being wordpress was slow and we didn&amp;rsquo;t need all that for a simple blog.
+If you want to contribute to this blog you can do it here: https://git.jordynsblog.org/jcjordyn120/blog</description>
+    </item>
+    
+  </channel>
+</rss>
